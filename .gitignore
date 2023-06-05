@@ -176,4 +176,5 @@ pyrightconfig.json
 # vscode
 .vscode/
 
+test_config.yaml
 # End of https://www.toptal.com/developers/gitignore/api/python
